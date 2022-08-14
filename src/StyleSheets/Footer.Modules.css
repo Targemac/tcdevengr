@@ -1,0 +1,21 @@
+.footer {
+  border-top: 0.5px solid rgb(238, 236, 236);
+  display: flex;
+  text-transform: capitalize;
+  justify-content: center;
+  /* background-color: rgb(5, 89, 34); */
+}
+.foot-row {
+  padding: 1%;
+}
+.foot-link {
+  color: #000;
+  text-decoration: none;
+}
+.foot-link:hover {
+  text-decoration: underline;
+}
+.footer-2 {
+  text-align: center;
+  text-transform: uppercase;
+}

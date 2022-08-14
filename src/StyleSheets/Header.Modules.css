@@ -1,0 +1,36 @@
+.header {
+  border-bottom: 1px solid rgb(238, 236, 236);
+  display: flex;
+  align-items: center;
+  padding: 1%;
+}
+.brand-name-box {
+  width: 50%;
+  text-align: center;
+}
+.brand-name {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 28px;
+  color: teal;
+  text-decoration: none;
+}
+.main-nav-links {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  
+}
+.nav-links {
+  padding: 1%;
+  display: flex;
+  
+}
+.nav-link {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: teal;
+}
+.nav-link:hover{
+    text-decoration: underline;
+}
